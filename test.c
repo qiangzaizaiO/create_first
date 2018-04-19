@@ -1,2 +1,3 @@
-Hello wordï¿½ï¿½
+Hello word£¡
 
+We are good children!
